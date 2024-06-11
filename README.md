@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Task-Manager-App
-=======
+
 
 <p>
-  RemindTask is a tool designed to help you stay organized and on top of your daily tasks and notes. Whether you're managing work projects, household chores, or personal goals.
+  It is a tool designed to help you stay organized and on top of your daily tasks and notes. Whether you're managing work projects, household chores, or personal goals.
 </p>
 
 
